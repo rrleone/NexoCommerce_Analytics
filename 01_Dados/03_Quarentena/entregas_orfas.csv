@@ -1,0 +1,2 @@
+﻿id_entrega,id_pedido,transportadora,data_envio,data_prevista,status_entrega
+8200,1200,Transportadora B,2026-07-08,2026-07-15,Entregue

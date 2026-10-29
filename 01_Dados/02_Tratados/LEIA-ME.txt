@@ -1,0 +1,13 @@
+NEXOCOMMERCE ANALYTICS — DADOS TRATADOS
+
+Os CSVs desta pasta são saídas do script ../03_Scripts/01_etl_tratamento.py.
+Os nomes de clientes, produtos, vendedores e transportadoras são sintéticos.
+
+Regras principais:
+- normalização de valores não informados para 'Não classificado' nos campos de status/formas de pagamento;
+- correção do desconto de 100% para 10%, com recálculo do valor do item;
+- datas previstas anteriores ao envio ajustadas para data de envio + 7 dias;
+- valores pagos reconstruídos pela soma dos itens de cada pedido, exclusivamente para esta base sintética;
+- registros definidos como inconsistentes ou órfãos separados em 03_Quarentena.
+
+A base é sintética para treinamento. Valores de pagamento reconstruídos não devem ser interpretados como transações bancárias reais. Consulte 04_Documentacao/relatorio_validacao.csv após executar 02_validar_dados.py.

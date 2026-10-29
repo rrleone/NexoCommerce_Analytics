@@ -1,0 +1,101 @@
+﻿id_produto,produto,categoria,preco_unitario,custo_unitario
+1,Jogo de Panelas,Casa,1172.79,775.92
+2,Carteira de Couro,Acessórios,1458.58,589.01
+3,Tablet,Eletrônicos,766.09,432.4
+4,Óculos de Sol,Acessórios,241.53,134.22
+5,Apoio para Pés,Escritório,50.49,34.99
+6,Fone Bluetooth,Eletrônicos,367.59,196.7
+7,Luminária de Mesa,Casa,223.78,112.79
+8,Bloco de Anotações,Escritório,1026.16,621.67
+9,Jogo de Lençóis,Casa,209.09,95.47
+10,Travesseiro Viscoelástico - Modelo 010,Casa,774.3,314.29
+11,Kit de Marcadores,Escritório,1050.57,568.52
+12,Pasta Suspensa,Escritório,884.24,456.94
+13,SSD Externo,Eletrônicos,323.67,143.39
+14,Organizador Multiuso,Casa,1212.06,602.4
+15,Carregador USB-C,Eletrônicos,1081.65,537.1
+16,Quadro Branco,Escritório,1116.31,536.94
+17,Planner Semanal,Escritório,222.65,111.72
+18,Porta-Canetas,Escritório,211.92,132.3
+19,Boné Casual,Acessórios,1393.52,653.21
+20,Cachecol,Acessórios,614.44,448.26
+21,Lixeira Inox,Casa,472.39,338.49
+22,Controle sem Fio,Eletrônicos,748.22,405.81
+23,Etiquetas Adesivas,Escritório,1004.41,483.47
+24,Almofada de Viagem,Acessórios,1434.77,809.46
+25,Tag de Bagagem,Acessórios,451.08,310.99
+26,Leitor de Cartão,Eletrônicos,1389.47,849.01
+27,Power Bank,Eletrônicos,66.54,44.7
+28,Placa de Vídeo,Eletrônicos,846.14,476.45
+29,Mini PC,Eletrônicos,961.94,580.21
+30,Painel Organizador,Escritório,185.67,86.39
+31,Cadeira Ergonômica,Escritório,236.3,152.17
+32,Liquidificador,Casa,646.1,278.44
+33,Cafeteira Elétrica,Casa,1450.36,910.71
+34,Óculos de Sol - Modelo 034,Acessórios,906.18,629.15
+35,Aspirador de Pó,Casa,1401.54,564.6
+36,Cinto em Couro,Acessórios,1212.41,722.3
+37,Guarda-chuva Compacto,Acessórios,717.05,278.24
+38,Jogo de Toalhas,Casa,1183.6,757.84
+39,Mouse Sem Fio,Eletrônicos,56.22,21.58
+40,Organizador de Cabos,Acessórios,190.44,137.95
+41,Kit de Marcadores - Modelo 041,Escritório,1249.26,505.9
+42,Cortina Blackout,Casa,1201.32,881.23
+43,Arquivo Sanfonado,Escritório,371.98,249.36
+44,Grampeador Metálico,Escritório,810.23,475.99
+45,Porta-Cartões,Acessórios,920.84,610.56
+46,Panela de Pressão,Casa,1305.58,872.19
+47,Lancheira Térmica,Acessórios,916.57,667.64
+48,Pochete Urbana,Acessórios,636.48,287.28
+49,Microfone USB,Eletrônicos,580.05,339.93
+50,Headset Gamer,Eletrônicos,656.05,254.56
+51,Suporte para Documentos,Escritório,988.34,589.51
+52,Controle sem Fio - Modelo 052,Eletrônicos,1305.21,546.25
+53,Tábua de Passar,Casa,697.23,401.59
+54,Umidificador de Ar,Casa,394.32,228.3
+55,Tag de Bagagem - Modelo 055,Acessórios,377.89,202.7
+56,Organizador de Bolsa,Acessórios,1126.64,629.85
+57,Power Bank - Modelo 057,Eletrônicos,1230.36,806.59
+58,Suporte Veicular,Acessórios,184.76,123.73
+59,Mini PC - Modelo 059,Eletrônicos,127.84,69.91
+60,Painel Organizador - Modelo 060,Escritório,903.82,533.11
+61,Mochila Executiva,Acessórios,244.87,176.92
+62,Carteira de Couro - Modelo 062,Acessórios,1242.26,494.29
+63,Tablet - Modelo 063,Eletrônicos,486.19,192.94
+64,Óculos de Sol - Modelo 064,Acessórios,241.49,92.99
+65,Smart TV,Eletrônicos,1383.83,848.49
+66,Gaveteiro Móvel,Escritório,273.33,141.43
+67,Luminária de Mesa - Modelo 067,Casa,448.54,295.91
+68,Jogo de Toalhas - Modelo 068,Casa,255.81,158.22
+69,Mouse Sem Fio - Modelo 069,Eletrônicos,199.77,96.58
+70,Organizador de Cabos - Modelo 070,Acessórios,61.09,43.33
+71,Edredom Queen,Casa,111.43,72.99
+72,Pasta Suspensa - Modelo 072,Escritório,286.72,131.38
+73,Tapete Decorativo,Casa,108.47,53.77
+74,Organizador Multiuso - Modelo 074,Casa,898.98,427.71
+75,Porta-Cartões - Modelo 075,Acessórios,1030.65,425.7
+76,Cabo HDMI,Eletrônicos,608.64,249.0
+77,Planner Semanal - Modelo 077,Escritório,497.45,360.38
+78,Porta-Canetas - Modelo 078,Escritório,771.65,405.24
+79,Balança de Cozinha,Casa,1316.26,662.51
+80,Pote Hermético,Casa,1281.16,822.34
+81,Console de Jogos,Eletrônicos,93.91,53.64
+82,Bolsa para Notebook,Acessórios,296.8,215.02
+83,Porta-Garrafa,Acessórios,378.01,250.29
+84,Repetidor Wi-Fi,Eletrônicos,396.6,214.86
+85,Hub USB,Eletrônicos,869.71,435.33
+86,Leitor de Cartão - Modelo 086,Eletrônicos,641.91,478.0
+87,Power Bank - Modelo 087,Eletrônicos,102.4,65.24
+88,Suporte Veicular - Modelo 088,Acessórios,579.21,423.1
+89,Kit de Viagem,Acessórios,799.92,317.88
+90,Adaptador Bluetooth,Eletrônicos,179.46,123.87
+91,Cadeira Ergonômica - Modelo 091,Escritório,1255.18,759.17
+92,Notebook,Eletrônicos,106.38,42.42
+93,Cafeteira Elétrica - Modelo 093,Casa,1389.52,813.29
+94,Suporte para Monitor,Escritório,175.7,109.71
+95,Apoio para Pés - Modelo 095,Escritório,1270.06,450.77
+96,Cinto em Couro - Modelo 096,Acessórios,1356.9,721.5
+97,Caixa de Som Bluetooth,Eletrônicos,1469.97,999.81
+98,Teclado Mecânico,Eletrônicos,1208.98,565.98
+99,Jogo de Lençóis - Modelo 099,Casa,1175.83,627.21
+100,Travesseiro Viscoelástico - Modelo 100,Casa,974.45,513.46

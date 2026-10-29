@@ -1,0 +1,41 @@
+﻿verificacao,resultado,detalhes
+clientes.csv: registros,OK,300
+clientes.csv: linhas duplicadas,OK,0
+clientes.csv: células nulas,OK,0
+clientes.csv: chave id_cliente única,OK,duplicados: 0
+entregas.csv: registros,OK,5998
+entregas.csv: linhas duplicadas,OK,0
+entregas.csv: células nulas,OK,0
+entregas.csv: chave id_entrega única,OK,duplicados: 0
+itens_pedido.csv: registros,OK,8765
+itens_pedido.csv: linhas duplicadas,OK,0
+itens_pedido.csv: células nulas,OK,0
+itens_pedido.csv: chave id_item única,OK,duplicados: 0
+pagamentos.csv: registros,OK,5998
+pagamentos.csv: linhas duplicadas,OK,0
+pagamentos.csv: células nulas,OK,0
+pagamentos.csv: chave id_pagamento única,OK,duplicados: 0
+pedidos.csv: registros,OK,5998
+pedidos.csv: linhas duplicadas,OK,0
+pedidos.csv: células nulas,OK,0
+pedidos.csv: chave id_pedido única,OK,duplicados: 0
+produtos.csv: registros,OK,100
+produtos.csv: linhas duplicadas,OK,0
+produtos.csv: células nulas,OK,0
+produtos.csv: chave id_produto única,OK,duplicados: 0
+vendedores.csv: registros,OK,10
+vendedores.csv: linhas duplicadas,OK,0
+vendedores.csv: células nulas,OK,0
+vendedores.csv: chave id_vendedor única,OK,duplicados: 0
+Chaves de pedidos em itens,OK,órfãos: 0
+Chaves de produtos em itens,OK,órfãos: 0
+Chaves de clientes em pedidos,OK,órfãos: 0
+Chaves de vendedores em pedidos,OK,órfãos: 0
+Chaves de pedidos em pagamentos,OK,órfãos: 0
+Chaves de pedidos em entregas,OK,órfãos: 0
+Valor dos itens,OK,divergências: 0
+Descontos entre 0 e 1,OK,"mínimo 0.0, máximo 0.15"
+Quantidade e valores positivos,OK,"quantidade, preço unitário e valor do item"
+Data prevista não anterior ao envio,OK,casos restantes: 0
+Preço de venda maior ou igual ao custo,OK,casos: 0
+Pagamento reconciliado com itens (regra sintética),OK,divergências: 0

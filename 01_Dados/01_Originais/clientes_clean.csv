@@ -1,0 +1,301 @@
+﻿id_cliente,nome_cliente,cidade,estado
+1,Cliente 001,São Paulo,SP
+2,Cliente 002,Jundiaí,SP
+3,Cliente 003,Jundiaí,SP
+4,Cliente 004,Santos,SP
+5,Cliente 005,Santos,SP
+6,Cliente 006,Sorocaba,SP
+7,Cliente 007,São Paulo,SP
+8,Cliente 008,Jundiaí,SP
+9,Cliente 009,Campinas,SP
+10,Cliente 010,São Paulo,SP
+11,Cliente 011,Santos,SP
+12,Cliente 012,Sorocaba,SP
+13,Cliente 013,Jundiaí,SP
+14,Cliente 014,Jundiaí,SP
+15,Cliente 015,Não informado,SP
+16,Cliente 016,Jundiaí,SP
+17,Cliente 017,Santos,SP
+18,Cliente 018,São Paulo,SP
+19,Cliente 019,Sorocaba,SP
+20,Cliente 020,Santos,SP
+21,Cliente 021,Santos,SP
+22,Cliente 022,Campinas,SP
+23,Cliente 023,São Paulo,SP
+24,Cliente 024,Sorocaba,SP
+25,Cliente 025,Jundiaí,SP
+26,Cliente 026,Jundiaí,SP
+27,Cliente 027,Santos,SP
+28,Cliente 028,Sorocaba,SP
+29,Cliente 029,Santos,SP
+30,Cliente 030,Santos,SP
+31,Cliente 031,Santos,SP
+32,Cliente 032,Campinas,SP
+33,Cliente 033,São Paulo,SP
+34,Cliente 034,Santos,SP
+35,Cliente 035,Sorocaba,SP
+36,Cliente 036,São Paulo,SP
+37,Cliente 037,Sorocaba,SP
+38,Cliente 038,Sorocaba,SP
+39,Cliente 039,Campinas,SP
+40,Cliente 040,Jundiaí,SP
+41,Cliente 041,São Paulo,SP
+42,Cliente 042,Jundiaí,SP
+43,Cliente 043,Jundiaí,SP
+44,Cliente 044,Campinas,SP
+45,Cliente 045,São Paulo,SP
+46,Cliente 046,Sorocaba,SP
+47,Cliente 047,Santos,SP
+48,Cliente 048,Sorocaba,SP
+49,Cliente 049,Jundiaí,SP
+50,Cliente 050,Jundiaí,SP
+51,Cliente 051,Jundiaí,SP
+52,Cliente 052,São Paulo,SP
+53,Cliente 053,Campinas,SP
+54,Cliente 054,Santos,SP
+55,Cliente 055,Santos,SP
+56,Cliente 056,São Paulo,SP
+57,Cliente 057,Santos,SP
+58,Cliente 058,São Paulo,SP
+59,Cliente 059,Jundiaí,SP
+60,Cliente 060,Jundiaí,SP
+61,Cliente 061,Sorocaba,SP
+62,Cliente 062,Jundiaí,SP
+63,Cliente 063,Campinas,SP
+64,Cliente 064,Sorocaba,SP
+65,Cliente 065,Santos,SP
+66,Cliente 066,Campinas,SP
+67,Cliente 067,Sorocaba,SP
+68,Cliente 068,Campinas,SP
+69,Cliente 069,São Paulo,SP
+70,Cliente 070,Santos,SP
+71,Cliente 071,Jundiaí,SP
+72,Cliente 072,São Paulo,SP
+73,Cliente 073,Santos,SP
+74,Cliente 074,São Paulo,SP
+75,Cliente 075,Jundiaí,SP
+76,Cliente 076,Santos,SP
+77,Cliente 077,Campinas,SP
+78,Cliente 078,Não informado,SP
+79,Cliente 079,Santos,SP
+80,Cliente 080,Jundiaí,SP
+81,Cliente 081,Sorocaba,SP
+82,Cliente 082,Santos,SP
+83,Cliente 083,São Paulo,SP
+84,Cliente 084,Sorocaba,SP
+85,Cliente 085,Jundiaí,SP
+86,Cliente 086,Jundiaí,SP
+87,Cliente 087,São Paulo,SP
+88,Cliente 088,Campinas,SP
+89,Cliente 089,Jundiaí,SP
+90,Cliente 090,Sorocaba,SP
+91,Cliente 091,Santos,SP
+92,Cliente 092,Sorocaba,SP
+93,Cliente 093,Sorocaba,SP
+94,Cliente 094,Campinas,SP
+95,Cliente 095,Sorocaba,SP
+96,Cliente 096,Campinas,SP
+97,Cliente 097,Campinas,SP
+98,Cliente 098,Jundiaí,SP
+99,Cliente 099,Jundiaí,SP
+100,Cliente 100,São Paulo,SP
+101,Cliente 101,Sorocaba,SP
+102,Cliente 102,São Paulo,SP
+103,Cliente 103,Sorocaba,SP
+104,Cliente 104,São Paulo,SP
+105,Cliente 105,Jundiaí,SP
+106,Cliente 106,Jundiaí,SP
+107,Cliente 107,Jundiaí,SP
+108,Cliente 108,Jundiaí,SP
+109,Cliente 109,Santos,SP
+110,Cliente 110,Jundiaí,SP
+111,Cliente 111,Campinas,SP
+112,Cliente 112,Jundiaí,SP
+113,Cliente 113,Santos,SP
+114,Cliente 114,Santos,SP
+115,Cliente 115,Santos,SP
+116,Cliente 116,Santos,SP
+117,Cliente 117,São Paulo,SP
+118,Cliente 118,São Paulo,SP
+119,Cliente 119,Campinas,SP
+120,Cliente 120,São Paulo,SP
+121,Cliente 121,Santos,SP
+122,Cliente 122,Jundiaí,SP
+123,Cliente 123,Jundiaí,SP
+124,Cliente 124,Santos,SP
+125,Cliente 125,Sorocaba,SP
+126,Cliente 126,Santos,SP
+127,Cliente 127,São Paulo,SP
+128,Cliente 128,Jundiaí,SP
+129,Cliente 129,Santos,SP
+130,Cliente 130,Jundiaí,SP
+131,Cliente 131,Santos,SP
+132,Cliente 132,Santos,SP
+133,Cliente 133,São Paulo,SP
+134,Cliente 134,Santos,SP
+135,Cliente 135,Jundiaí,SP
+136,Cliente 136,Campinas,SP
+137,Cliente 137,Jundiaí,SP
+138,Cliente 138,São Paulo,SP
+139,Cliente 139,Campinas,SP
+140,Cliente 140,Santos,SP
+141,Cliente 141,Sorocaba,SP
+142,Cliente 142,Campinas,SP
+143,Cliente 143,Campinas,SP
+144,Cliente 144,Santos,SP
+145,Cliente 145,Sorocaba,SP
+146,Cliente 146,Sorocaba,SP
+147,Cliente 147,São Paulo,SP
+148,Cliente 148,Campinas,SP
+149,Cliente 149,Sorocaba,SP
+150,Cliente 150,São Paulo,SP
+151,Cliente 151,Sorocaba,SP
+152,Cliente 152,Campinas,SP
+153,Cliente 153,Sorocaba,SP
+154,Cliente 154,Campinas,SP
+155,Cliente 155,Santos,SP
+156,Cliente 156,Jundiaí,SP
+157,Cliente 157,São Paulo,SP
+158,Cliente 158,Santos,SP
+159,Cliente 159,Santos,SP
+160,Cliente 160,Jundiaí,SP
+161,Cliente 161,Sorocaba,SP
+162,Cliente 162,Jundiaí,SP
+163,Cliente 163,Santos,SP
+164,Cliente 164,Santos,SP
+165,Cliente 165,Santos,SP
+166,Cliente 166,Sorocaba,SP
+167,Cliente 167,Campinas,SP
+168,Cliente 168,São Paulo,SP
+169,Cliente 169,Campinas,SP
+170,Cliente 170,São Paulo,SP
+171,Cliente 171,São Paulo,SP
+172,Cliente 172,São Paulo,SP
+173,Cliente 173,Jundiaí,SP
+174,Cliente 174,Jundiaí,SP
+175,Cliente 175,Jundiaí,SP
+176,Cliente 176,Santos,SP
+177,Cliente 177,Jundiaí,SP
+178,Cliente 178,São Paulo,SP
+179,Cliente 179,Sorocaba,SP
+180,Cliente 180,Santos,SP
+181,Cliente 181,Sorocaba,SP
+182,Cliente 182,São Paulo,SP
+183,Cliente 183,Santos,SP
+184,Cliente 184,Jundiaí,SP
+185,Cliente 185,Santos,SP
+186,Cliente 186,Santos,SP
+187,Cliente 187,São Paulo,SP
+188,Cliente 188,Campinas,SP
+189,Cliente 189,Campinas,SP
+190,Cliente 190,Campinas,SP
+191,Cliente 191,Jundiaí,SP
+192,Cliente 192,Jundiaí,SP
+193,Cliente 193,Jundiaí,SP
+194,Cliente 194,Campinas,SP
+195,Cliente 195,Sorocaba,SP
+196,Cliente 196,São Paulo,SP
+197,Cliente 197,Campinas,SP
+198,Cliente 198,São Paulo,SP
+199,Cliente 199,Campinas,SP
+200,Cliente 200,Sorocaba,SP
+201,Cliente 201,Campinas,SP
+202,Cliente 202,Sorocaba,SP
+203,Cliente 203,Santos,SP
+204,Cliente 204,Jundiaí,SP
+205,Cliente 205,Santos,SP
+206,Cliente 206,Campinas,SP
+207,Cliente 207,Jundiaí,SP
+208,Cliente 208,Sorocaba,SP
+209,Cliente 209,Campinas,SP
+210,Cliente 210,Jundiaí,SP
+211,Cliente 211,Campinas,SP
+212,Cliente 212,Jundiaí,SP
+213,Cliente 213,Jundiaí,SP
+214,Cliente 214,Santos,SP
+215,Cliente 215,Jundiaí,SP
+216,Cliente 216,Campinas,SP
+217,Cliente 217,São Paulo,SP
+218,Cliente 218,São Paulo,SP
+219,Cliente 219,Santos,SP
+220,Cliente 220,Sorocaba,SP
+221,Cliente 221,São Paulo,SP
+222,Cliente 222,Santos,SP
+223,Cliente 223,Jundiaí,SP
+224,Cliente 224,Campinas,SP
+225,Cliente 225,Jundiaí,SP
+226,Cliente 226,Campinas,SP
+227,Cliente 227,Sorocaba,SP
+228,Cliente 228,Santos,SP
+229,Cliente 229,Santos,SP
+230,Cliente 230,São Paulo,SP
+231,Cliente 231,Santos,SP
+232,Cliente 232,Sorocaba,SP
+233,Cliente 233,São Paulo,SP
+234,Cliente 234,Jundiaí,SP
+235,Cliente 235,Santos,SP
+236,Cliente 236,Jundiaí,SP
+237,Cliente 237,Jundiaí,SP
+238,Cliente 238,Santos,SP
+239,Cliente 239,Campinas,SP
+240,Cliente 240,Jundiaí,SP
+241,Cliente 241,São Paulo,SP
+242,Cliente 242,Santos,SP
+243,Cliente 243,São Paulo,SP
+244,Cliente 244,Jundiaí,SP
+245,Cliente 245,Jundiaí,SP
+246,Cliente 246,São Paulo,SP
+247,Cliente 247,Jundiaí,SP
+248,Cliente 248,Santos,SP
+249,Cliente 249,Jundiaí,SP
+250,Cliente 250,São Paulo,SP
+251,Cliente 251,São Paulo,SP
+252,Cliente 252,Santos,SP
+253,Cliente 253,São Paulo,SP
+254,Cliente 254,Campinas,SP
+255,Cliente 255,Jundiaí,SP
+256,Cliente 256,São Paulo,SP
+257,Cliente 257,Jundiaí,SP
+258,Cliente 258,São Paulo,SP
+259,Cliente 259,São Paulo,SP
+260,Cliente 260,Santos,SP
+261,Cliente 261,Jundiaí,SP
+262,Cliente 262,São Paulo,SP
+263,Cliente 263,Campinas,SP
+264,Cliente 264,Sorocaba,SP
+265,Cliente 265,Sorocaba,SP
+266,Cliente 266,Santos,SP
+267,Cliente 267,Santos,SP
+268,Cliente 268,Campinas,SP
+269,Cliente 269,Jundiaí,SP
+270,Cliente 270,Santos,SP
+271,Cliente 271,Campinas,SP
+272,Cliente 272,São Paulo,SP
+273,Cliente 273,São Paulo,SP
+274,Cliente 274,Sorocaba,SP
+275,Cliente 275,Santos,SP
+276,Cliente 276,Santos,SP
+277,Cliente 277,Santos,SP
+278,Cliente 278,Jundiaí,SP
+279,Cliente 279,São Paulo,SP
+280,Cliente 280,São Paulo,SP
+281,Cliente 281,Campinas,SP
+282,Cliente 282,Santos,SP
+283,Cliente 283,Jundiaí,SP
+284,Cliente 284,Santos,SP
+285,Cliente 285,Santos,SP
+286,Cliente 286,Sorocaba,SP
+287,Cliente 287,São Paulo,SP
+288,Cliente 288,Santos,SP
+289,Cliente 289,Santos,SP
+290,Cliente 290,Santos,SP
+291,Cliente 291,Sorocaba,SP
+292,Cliente 292,Campinas,SP
+293,Cliente 293,Sorocaba,SP
+294,Cliente 294,Campinas,SP
+295,Cliente 295,Santos,SP
+296,Cliente 296,Santos,SP
+297,Cliente 297,Sorocaba,SP
+298,Cliente 298,Santos,SP
+299,Cliente 299,Campinas,SP
+300,Cliente 300,São Paulo,SP

@@ -1,0 +1,301 @@
+﻿id_cliente,nome_cliente,cidade,estado
+1,Ana Almeida,São Paulo,SP
+2,Bruno Castro,Jundiaí,SP
+3,Carolina Lima,Jundiaí,SP
+4,Daniel Moreira,Santos,SP
+5,Eduarda Santana,Santos,SP
+6,Felipe Andrade,Sorocaba,SP
+7,Gabriela Costa,São Paulo,SP
+8,Henrique Lopes,Jundiaí,SP
+9,Isabela Nascimento,Campinas,SP
+10,João Santos,São Paulo,SP
+11,Larissa Barbosa,Santos,SP
+12,Marcos Dias,Sorocaba,SP
+13,Natália Machado,Jundiaí,SP
+14,Otávio Oliveira,Jundiaí,SP
+15,Patrícia Silva,Não informado,SP
+16,Rafael Barros,Jundiaí,SP
+17,Sabrina Fernandes,Santos,SP
+18,Thiago Martins,São Paulo,SP
+19,Vanessa Pereira,Sorocaba,SP
+20,William Souza,Santos,SP
+21,Amanda Batista,Santos,SP
+22,Caio Ferreira,Campinas,SP
+23,Débora Mendes,São Paulo,SP
+24,Eduardo Ramos,Sorocaba,SP
+25,Fernanda Teixeira,Jundiaí,SP
+26,Gustavo Cardoso,Jundiaí,SP
+27,Helena Freitas,Santos,SP
+28,Igor Monteiro,Sorocaba,SP
+29,Juliana Rocha,Santos,SP
+30,Leonardo Vieira,Santos,SP
+31,Ana Castro,Santos,SP
+32,Bruno Lima,Campinas,SP
+33,Carolina Moreira,São Paulo,SP
+34,Daniel Santana,Santos,SP
+35,Eduarda Andrade,Sorocaba,SP
+36,Felipe Costa,São Paulo,SP
+37,Gabriela Lopes,Sorocaba,SP
+38,Henrique Nascimento,Sorocaba,SP
+39,Isabela Santos,Campinas,SP
+40,João Barbosa,Jundiaí,SP
+41,Larissa Dias,São Paulo,SP
+42,Marcos Machado,Jundiaí,SP
+43,Natália Oliveira,Jundiaí,SP
+44,Otávio Silva,Campinas,SP
+45,Patrícia Barros,São Paulo,SP
+46,Rafael Fernandes,Sorocaba,SP
+47,Sabrina Martins,Santos,SP
+48,Thiago Pereira,Sorocaba,SP
+49,Vanessa Souza,Jundiaí,SP
+50,William Batista,Jundiaí,SP
+51,Amanda Ferreira,Jundiaí,SP
+52,Caio Mendes,São Paulo,SP
+53,Débora Ramos,Campinas,SP
+54,Eduardo Teixeira,Santos,SP
+55,Fernanda Cardoso,Santos,SP
+56,Gustavo Freitas,São Paulo,SP
+57,Helena Monteiro,Santos,SP
+58,Igor Rocha,São Paulo,SP
+59,Juliana Vieira,Jundiaí,SP
+60,Leonardo Carvalho,Jundiaí,SP
+61,Ana Lima,Sorocaba,SP
+62,Bruno Moreira,Jundiaí,SP
+63,Carolina Santana,Campinas,SP
+64,Daniel Andrade,Sorocaba,SP
+65,Eduarda Costa,Santos,SP
+66,Felipe Lopes,Campinas,SP
+67,Gabriela Nascimento,Sorocaba,SP
+68,Henrique Santos,Campinas,SP
+69,Isabela Barbosa,São Paulo,SP
+70,João Dias,Santos,SP
+71,Larissa Machado,Jundiaí,SP
+72,Marcos Oliveira,São Paulo,SP
+73,Natália Silva,Santos,SP
+74,Otávio Barros,São Paulo,SP
+75,Patrícia Fernandes,Jundiaí,SP
+76,Rafael Martins,Santos,SP
+77,Sabrina Pereira,Campinas,SP
+78,Thiago Souza,Não informado,SP
+79,Vanessa Batista,Santos,SP
+80,William Ferreira,Jundiaí,SP
+81,Amanda Mendes,Sorocaba,SP
+82,Caio Ramos,Santos,SP
+83,Débora Teixeira,São Paulo,SP
+84,Eduardo Cardoso,Sorocaba,SP
+85,Fernanda Freitas,Jundiaí,SP
+86,Gustavo Monteiro,Jundiaí,SP
+87,Helena Rocha,São Paulo,SP
+88,Igor Vieira,Campinas,SP
+89,Juliana Carvalho,Jundiaí,SP
+90,Leonardo Gomes,Sorocaba,SP
+91,Ana Moreira,Santos,SP
+92,Bruno Santana,Sorocaba,SP
+93,Carolina Andrade,Sorocaba,SP
+94,Daniel Costa,Campinas,SP
+95,Eduarda Lopes,Sorocaba,SP
+96,Felipe Nascimento,Campinas,SP
+97,Gabriela Santos,Campinas,SP
+98,Henrique Barbosa,Jundiaí,SP
+99,Isabela Dias,Jundiaí,SP
+100,João Machado,São Paulo,SP
+101,Larissa Oliveira,Sorocaba,SP
+102,Marcos Silva,São Paulo,SP
+103,Natália Barros,Sorocaba,SP
+104,Otávio Fernandes,São Paulo,SP
+105,Patrícia Martins,Jundiaí,SP
+106,Rafael Pereira,Jundiaí,SP
+107,Sabrina Souza,Jundiaí,SP
+108,Thiago Batista,Jundiaí,SP
+109,Vanessa Ferreira,Santos,SP
+110,William Mendes,Jundiaí,SP
+111,Amanda Ramos,Campinas,SP
+112,Caio Teixeira,Jundiaí,SP
+113,Débora Cardoso,Santos,SP
+114,Eduardo Freitas,Santos,SP
+115,Fernanda Monteiro,Santos,SP
+116,Gustavo Rocha,Santos,SP
+117,Helena Vieira,São Paulo,SP
+118,Igor Carvalho,São Paulo,SP
+119,Juliana Gomes,Campinas,SP
+120,Leonardo Moraes,São Paulo,SP
+121,Ana Santana,Santos,SP
+122,Bruno Andrade,Jundiaí,SP
+123,Carolina Costa,Jundiaí,SP
+124,Daniel Lopes,Santos,SP
+125,Eduarda Nascimento,Sorocaba,SP
+126,Felipe Santos,Santos,SP
+127,Gabriela Barbosa,São Paulo,SP
+128,Henrique Dias,Jundiaí,SP
+129,Isabela Machado,Santos,SP
+130,João Oliveira,Jundiaí,SP
+131,Larissa Silva,Santos,SP
+132,Marcos Barros,Santos,SP
+133,Natália Fernandes,São Paulo,SP
+134,Otávio Martins,Santos,SP
+135,Patrícia Pereira,Jundiaí,SP
+136,Rafael Souza,Campinas,SP
+137,Sabrina Batista,Jundiaí,SP
+138,Thiago Ferreira,São Paulo,SP
+139,Vanessa Mendes,Campinas,SP
+140,William Ramos,Santos,SP
+141,Amanda Teixeira,Sorocaba,SP
+142,Caio Cardoso,Campinas,SP
+143,Débora Freitas,Campinas,SP
+144,Eduardo Monteiro,Santos,SP
+145,Fernanda Rocha,Sorocaba,SP
+146,Gustavo Vieira,Sorocaba,SP
+147,Helena Carvalho,São Paulo,SP
+148,Igor Gomes,Campinas,SP
+149,Juliana Moraes,Sorocaba,SP
+150,Leonardo Rodrigues,São Paulo,SP
+151,Ana Andrade,Sorocaba,SP
+152,Bruno Costa,Campinas,SP
+153,Carolina Lopes,Sorocaba,SP
+154,Daniel Nascimento,Campinas,SP
+155,Eduarda Santos,Santos,SP
+156,Felipe Barbosa,Jundiaí,SP
+157,Gabriela Dias,São Paulo,SP
+158,Henrique Machado,Santos,SP
+159,Isabela Oliveira,Santos,SP
+160,João Silva,Jundiaí,SP
+161,Larissa Barros,Sorocaba,SP
+162,Marcos Fernandes,Jundiaí,SP
+163,Natália Martins,Santos,SP
+164,Otávio Pereira,Santos,SP
+165,Patrícia Souza,Santos,SP
+166,Rafael Batista,Sorocaba,SP
+167,Sabrina Ferreira,Campinas,SP
+168,Thiago Mendes,São Paulo,SP
+169,Vanessa Ramos,Campinas,SP
+170,William Teixeira,São Paulo,SP
+171,Amanda Cardoso,São Paulo,SP
+172,Caio Freitas,São Paulo,SP
+173,Débora Monteiro,Jundiaí,SP
+174,Eduardo Rocha,Jundiaí,SP
+175,Fernanda Vieira,Jundiaí,SP
+176,Gustavo Carvalho,Santos,SP
+177,Helena Gomes,Jundiaí,SP
+178,Igor Moraes,São Paulo,SP
+179,Juliana Rodrigues,Sorocaba,SP
+180,Leonardo Almeida,Santos,SP
+181,Ana Costa,Sorocaba,SP
+182,Bruno Lopes,São Paulo,SP
+183,Carolina Nascimento,Santos,SP
+184,Daniel Santos,Jundiaí,SP
+185,Eduarda Barbosa,Santos,SP
+186,Felipe Dias,Santos,SP
+187,Gabriela Machado,São Paulo,SP
+188,Henrique Oliveira,Campinas,SP
+189,Isabela Silva,Campinas,SP
+190,João Barros,Campinas,SP
+191,Larissa Fernandes,Jundiaí,SP
+192,Marcos Martins,Jundiaí,SP
+193,Natália Pereira,Jundiaí,SP
+194,Otávio Souza,Campinas,SP
+195,Patrícia Batista,Sorocaba,SP
+196,Rafael Ferreira,São Paulo,SP
+197,Sabrina Mendes,Campinas,SP
+198,Thiago Ramos,São Paulo,SP
+199,Vanessa Teixeira,Campinas,SP
+200,William Cardoso,Sorocaba,SP
+201,Amanda Freitas,Campinas,SP
+202,Caio Monteiro,Sorocaba,SP
+203,Débora Rocha,Santos,SP
+204,Eduardo Vieira,Jundiaí,SP
+205,Fernanda Carvalho,Santos,SP
+206,Gustavo Gomes,Campinas,SP
+207,Helena Moraes,Jundiaí,SP
+208,Igor Rodrigues,Sorocaba,SP
+209,Juliana Almeida,Campinas,SP
+210,Leonardo Castro,Jundiaí,SP
+211,Ana Lopes,Campinas,SP
+212,Bruno Nascimento,Jundiaí,SP
+213,Carolina Santos,Jundiaí,SP
+214,Daniel Barbosa,Santos,SP
+215,Eduarda Dias,Jundiaí,SP
+216,Felipe Machado,Campinas,SP
+217,Gabriela Oliveira,São Paulo,SP
+218,Henrique Silva,São Paulo,SP
+219,Isabela Barros,Santos,SP
+220,João Fernandes,Sorocaba,SP
+221,Larissa Martins,São Paulo,SP
+222,Marcos Pereira,Santos,SP
+223,Natália Souza,Jundiaí,SP
+224,Otávio Batista,Campinas,SP
+225,Patrícia Ferreira,Jundiaí,SP
+226,Rafael Mendes,Campinas,SP
+227,Sabrina Ramos,Sorocaba,SP
+228,Thiago Teixeira,Santos,SP
+229,Vanessa Cardoso,Santos,SP
+230,William Freitas,São Paulo,SP
+231,Amanda Monteiro,Santos,SP
+232,Caio Rocha,Sorocaba,SP
+233,Débora Vieira,São Paulo,SP
+234,Eduardo Carvalho,Jundiaí,SP
+235,Fernanda Gomes,Santos,SP
+236,Gustavo Moraes,Jundiaí,SP
+237,Helena Rodrigues,Jundiaí,SP
+238,Igor Almeida,Santos,SP
+239,Juliana Castro,Campinas,SP
+240,Leonardo Lima,Jundiaí,SP
+241,Ana Nascimento,São Paulo,SP
+242,Bruno Santos,Santos,SP
+243,Carolina Barbosa,São Paulo,SP
+244,Daniel Dias,Jundiaí,SP
+245,Eduarda Machado,Jundiaí,SP
+246,Felipe Oliveira,São Paulo,SP
+247,Gabriela Silva,Jundiaí,SP
+248,Henrique Barros,Santos,SP
+249,Isabela Fernandes,Jundiaí,SP
+250,João Martins,São Paulo,SP
+251,Larissa Pereira,São Paulo,SP
+252,Marcos Souza,Santos,SP
+253,Natália Batista,São Paulo,SP
+254,Otávio Ferreira,Campinas,SP
+255,Patrícia Mendes,Jundiaí,SP
+256,Rafael Ramos,São Paulo,SP
+257,Sabrina Teixeira,Jundiaí,SP
+258,Thiago Cardoso,São Paulo,SP
+259,Vanessa Freitas,São Paulo,SP
+260,William Monteiro,Santos,SP
+261,Amanda Rocha,Jundiaí,SP
+262,Caio Vieira,São Paulo,SP
+263,Débora Carvalho,Campinas,SP
+264,Eduardo Gomes,Sorocaba,SP
+265,Fernanda Moraes,Sorocaba,SP
+266,Gustavo Rodrigues,Santos,SP
+267,Helena Almeida,Santos,SP
+268,Igor Castro,Campinas,SP
+269,Juliana Lima,Jundiaí,SP
+270,Leonardo Moreira,Santos,SP
+271,Ana Santos,Campinas,SP
+272,Bruno Barbosa,São Paulo,SP
+273,Carolina Dias,São Paulo,SP
+274,Daniel Machado,Sorocaba,SP
+275,Eduarda Oliveira,Santos,SP
+276,Felipe Silva,Santos,SP
+277,Gabriela Barros,Santos,SP
+278,Henrique Fernandes,Jundiaí,SP
+279,Isabela Martins,São Paulo,SP
+280,João Pereira,São Paulo,SP
+281,Larissa Souza,Campinas,SP
+282,Marcos Batista,Santos,SP
+283,Natália Ferreira,Jundiaí,SP
+284,Otávio Mendes,Santos,SP
+285,Patrícia Ramos,Santos,SP
+286,Rafael Teixeira,Sorocaba,SP
+287,Sabrina Cardoso,São Paulo,SP
+288,Thiago Freitas,Santos,SP
+289,Vanessa Monteiro,Santos,SP
+290,William Rocha,Santos,SP
+291,Amanda Vieira,Sorocaba,SP
+292,Caio Carvalho,Campinas,SP
+293,Débora Gomes,Sorocaba,SP
+294,Eduardo Moraes,Campinas,SP
+295,Fernanda Rodrigues,Santos,SP
+296,Gustavo Almeida,Santos,SP
+297,Helena Castro,Sorocaba,SP
+298,Igor Lima,Santos,SP
+299,Juliana Moreira,Campinas,SP
+300,Leonardo Santana,São Paulo,SP
