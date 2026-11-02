@@ -1,4 +1,4 @@
-# 📊 NexoCommerce Analytics
+# NexoCommerce Analytics
 
 <div align="center">
 
