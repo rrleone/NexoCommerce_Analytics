@@ -1,203 +1,312 @@
 # 📊 NexoCommerce Analytics
 
-## 📈 Análise de Dados e Business Intelligence — Projeto End-to-End
+<div align="center">
 
-> **Projeto de portfólio desenvolvido para simular uma operação de comércio eletrônico, integrando preparação e validação de dados à análise comercial e operacional no Power BI.**
+### End-to-End Data Analytics & Business Intelligence
+
+**E-Commerce · Sales Performance · Customer Behavior · Operations · Business Insights**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-2C3E50?style=for-the-badge&logoColor=white"/>
+</p>
+
+**Transformando dados de e-commerce em indicadores, insights e decisões de negócio.**
+
+</div>
 
 ---
 
-## 🎯 Problema de negócio
+## Visão geral do projeto
 
-A NexoCommerce precisa de uma visão consolidada de sua operação para acompanhar o desempenho comercial e operacional e apoiar a tomada de decisão.
+O **NexoCommerce Analytics** é um projeto de portfólio End-to-End de Análise de Dados e Business Intelligence, desenvolvido para simular uma operação de comércio eletrônico.
+
+O projeto integra preparação, tratamento e validação de dados com Python, organização do modelo analítico e desenvolvimento de indicadores e dashboards interativos no Power BI.
+
+A proposta é demonstrar como dados comerciais e operacionais podem ser transformados em informações gerenciais para acompanhamento de desempenho e apoio à tomada de decisão.
+
+> **Projeto educacional:** os dados são sintéticos e não representam uma empresa real.
+
+---
+
+## Dashboard Power BI
+
+O dashboard está organizado em três perspectivas complementares, permitindo explorar a operação sob diferentes dimensões.
+
+### 01 — Visão Executiva
+
+Acompanhamento dos principais indicadores de desempenho, incluindo faturamento, pedidos, itens vendidos e ticket médio, com análises comerciais e operacionais.
+
+![Visão Executiva](05_Portfolio/01_VIS%C3%83O%20EXECUTIVA.png)
+
+### 02 — Análise Comercial
+
+Exploração do desempenho comercial por canal, categoria e produto, incluindo comparação de faturamento, volume e concentração de resultados.
+
+![Análise Comercial](05_Portfolio/02_AN%C3%81LISE%20COMERCIAL.png)
+
+### 03 — Operações e Produtos
+
+Análise dos status dos pedidos e entregas, além de comparações entre categorias e produtos por volume.
+
+![Operações e Produtos](05_Portfolio/03_OPERA%C3%87%C3%95ES%20E%20PRODUTOS.png)
+
+---
+
+## Problema de negócio e objetivos
+
+Uma operação de comércio eletrônico precisa acompanhar simultaneamente resultados comerciais e desempenho operacional.
 
 O projeto busca responder perguntas como:
 
-- 💰 Qual é o faturamento e o volume de pedidos?
-- 🛒 Como se distribuem as vendas por canal?
-- 📦 Quais categorias e produtos se destacam em faturamento ou volume?
-- 🚚 Como está o desempenho dos pedidos e das entregas?
-- 🔎 Quais indicadores merecem atenção da gestão?
+- Qual é o faturamento e o volume de pedidos?
+- Como se distribuem as vendas por canal?
+- Quais categorias e produtos se destacam em faturamento ou volume?
+- Como se comportam os pedidos e as entregas?
+- Como evoluem os indicadores ao longo do tempo?
+- Quais informações merecem atenção da gestão?
 
-A proposta é transformar dados operacionais em **informações gerenciais e insights acionáveis**.
+### Objetivos
 
----
-
-## 🏢 Visão empresarial
-
-A solução reúne indicadores e análises em três perspectivas complementares:
-
-- **Visão Executiva:** acompanhamento dos principais indicadores.
-- **Análise Comercial:** comparação de canais, categorias e produtos.
-- **Operações e Produtos:** acompanhamento dos status operacionais e do volume por produto.
-
-> Os dados são sintéticos e utilizados exclusivamente para fins educacionais e de portfólio.
+- Organizar e validar dados de diferentes entidades.
+- Desenvolver um processo estruturado de preparação de dados.
+- Construir indicadores comerciais e operacionais.
+- Explorar desempenho por canal, categoria e produto.
+- Desenvolver um dashboard interativo.
+- Comunicar resultados de forma clara e orientada ao negócio.
 
 ---
 
-## 🗂️ Sobre os dados
+## Dados utilizados
 
-| Característica | Descrição |
+O projeto utiliza dados sintéticos preparados para simular uma operação de e-commerce.
+
+### Entidades
+
+- Clientes
+- Pedidos
+- Itens de pedido
+- Produtos
+- Vendedores
+- Pagamentos
+- Entregas
+
+### Organização dos dados
+
+Os arquivos estão organizados em três grupos:
+
+- **Originais:** dados de entrada.
+- **Tratados:** dados preparados para análise.
+- **Quarentena:** registros separados durante as verificações de qualidade.
+
+Os dados são disponibilizados em formatos como CSV e JSON.
+
+---
+
+## Metodologia
+
+**Dados → Profiling → Qualidade → ETL → Modelagem → DAX → Dashboard → Insights**
+
+### 1. Data Profiling
+
+Inspeção inicial da estrutura, conteúdo, tipos de dados e características dos arquivos.
+
+### 2. Data Quality
+
+Identificação e análise de registros inconsistentes, duplicidades, problemas de integridade e registros órfãos.
+
+### 3. Data Cleaning & ETL
+
+Preparação e tratamento dos dados por meio de scripts Python, organizando os conjuntos de dados para utilização analítica.
+
+### 4. Data Validation
+
+Validação dos arquivos tratados e verificação da consistência dos dados, com separação de registros que exigem análise adicional.
+
+### 5. Data Modeling
+
+Organização das tabelas e relacionamentos utilizados no modelo analítico do Power BI.
+
+### 6. Business Metrics
+
+Desenvolvimento de indicadores, medidas DAX, comparações mensais e textos dinâmicos de insights.
+
+### 7. Business Analysis
+
+Análise comercial, financeira, de produtos e operações, considerando o contexto dos filtros e indicadores.
+
+### 8. Dashboard & Insights
+
+Construção das páginas do dashboard e comunicação dos resultados por meio de indicadores e análises visuais.
+
+---
+
+## Tecnologias e ferramentas
+
+| Tecnologia | Aplicação |
 |---|---|
-| **Fonte** | Dados sintéticos preparados para o projeto |
-| **Contexto** | Comércio eletrônico |
-| **Entidades** | Clientes, pedidos, itens de pedido, produtos, vendedores, pagamentos e entregas |
-| **Formatos** | CSV e JSON |
-| **Preparação** | Scripts Python de tratamento e validação |
-| **Visualização** | Power BI |
-
-Os arquivos estão organizados em três grupos: dados originais, dados tratados e registros em quarentena para análise de inconsistências.
-
----
-
-## 🛠️ Tecnologias utilizadas
-
-### 🐍 Python
-Utilizado nas etapas de preparação e validação dos dados.
-
-- Python
-- Pandas
-- Arquivos CSV e JSON
-
-### 📊 Power BI
-Utilizado para modelagem, indicadores e construção do dashboard.
-
-- Power Query
-- Modelo de dados e relacionamentos
-- DAX
-- KPIs e visualizações interativas
-
-### 🗃️ Versionamento
-- Git
-- GitHub
+| **Python** | Tratamento e validação dos dados |
+| **Pandas** | Manipulação e processamento |
+| **CSV / JSON** | Arquivos de dados e mapeamentos |
+| **Power Query** | Preparação dos dados no Power BI |
+| **Power BI** | Modelagem, indicadores e dashboards |
+| **DAX** | Medidas, KPIs e cálculos analíticos |
+| **Git / GitHub** | Versionamento e documentação do projeto |
 
 ---
 
-## 🔄 Etapas do projeto
+## Principais indicadores
 
-### 1. 📥 Organização dos dados
-Separação dos arquivos originais, tratados e dos registros encaminhados para quarentena.
+O dashboard reúne indicadores para acompanhamento do desempenho comercial e operacional.
 
-### 2. 🧹 Tratamento de dados
-Preparação dos dados com o script `03_Scripts/01_etl_tratamento.py`.
+- **Faturamento**
+- **Pedidos**
+- **Itens vendidos**
+- **Ticket médio**
+- **Faturamento por canal**
+- **Desempenho por categoria e produto**
+- **Status dos pedidos**
+- **Status e desempenho das entregas**
+- **Variação mensal (MoM)**
 
-### 3. ✅ Validação da qualidade
-Verificação dos dados com `03_Scripts/02_validar_dados.py`, com registro de validação em `04_Documentacao/relatorio_validacao.csv`.
-
-### 4. 📊 Análise e visualização
-Construção de indicadores e visualizações no Power BI para explorar as dimensões comercial e operacional.
-
----
-
-## 📌 Principais indicadores
-
-O dashboard reúne indicadores como:
-
-- 💰 **Faturamento**
-- 🛒 **Pedidos**
-- 📦 **Itens vendidos**
-- 🎟️ **Ticket médio**
-- 🚚 **Status e desempenho das entregas**
-- 🧾 **Desempenho por categoria, canal e produto**
-
-Os valores devem ser interpretados dentro do contexto dos dados sintéticos do projeto.
+Os valores exibidos dependem do contexto de filtros aplicado no relatório.
 
 ---
 
-## 📊 Dashboard Power BI
+## Análises gerenciais
 
-### 🧭 01. Visão Executiva
+### Desempenho comercial
 
-Apresenta uma visão consolidada dos principais indicadores e permite acompanhar o desempenho geral da operação.
+- Comparação de canais de venda.
+- Análise de faturamento e volume.
+- Desempenho de categorias e produtos.
+- Concentração de faturamento.
+- Ranking de produtos.
 
-![01 — Visão Executiva](05_Portfolio/01_visao_executiva.png)
+### Operações
 
----
+- Distribuição dos status dos pedidos.
+- Acompanhamento dos status das entregas.
+- Análise de volume por categoria.
+- Comparação de produtos por quantidade vendida.
 
-### 🛍️ 02. Análise Comercial
+### Insights dinâmicos
 
-Explora o desempenho dos canais de venda, das categorias e dos produtos, incluindo comparações de faturamento e volume.
+O dashboard utiliza textos dinâmicos para interpretar os dados conforme os filtros aplicados, buscando oferecer uma leitura gerencial além da simples apresentação dos valores.
 
-![02 — Análise Comercial](05_Portfolio/02_analise_comercial.png)
-
----
-
-### 🚚 03. Operações e Produtos
-
-Apresenta análises dos status dos pedidos e das entregas, além de comparações entre categorias e produtos por volume.
-
-![03 — Operações e Produtos](05_Portfolio/03_operacoes_e_produtos.png)
-
----
-
-## 💡 Análises gerenciais
-
-O dashboard permite explorar questões como:
-
-- **Canais de venda:** comparar a contribuição dos canais para o faturamento e o volume de pedidos.
-- **Categorias e produtos:** identificar diferenças de desempenho comercial e de quantidade vendida.
-- **Pedidos e entregas:** acompanhar os status operacionais e observar pontos de atenção.
-- **Indicadores integrados:** analisar os resultados em conjunto, considerando as limitações dos dados disponíveis.
-
-> As análises são descritivas e não estabelecem relações causais nem representam resultados de uma empresa real.
+As análises são descritivas e devem ser interpretadas dentro do escopo e das limitações dos dados sintéticos.
 
 ---
 
-## 🧩 Estrutura do projeto
+## Tratamento e validação dos dados
+
+Os principais scripts do projeto são:
+
+- `03_Scripts/01_etl_tratamento.py` — preparação e tratamento dos dados.
+- `03_Scripts/02_validar_dados.py` — validação dos dados tratados.
+- `03_Scripts/mapeamentos_sinteticos.json` — mapeamentos utilizados no projeto.
+- `03_Scripts/requirements.txt` — dependências Python.
+- `03_Scripts/README.md` — instruções para utilização dos scripts.
+
+Os registros identificados como inconsistentes ou órfãos são separados em arquivos de quarentena para análise, evitando sua utilização automática no conjunto principal tratado.
+
+---
+
+## Estrutura do repositório
 
 ```text
 NexoCommerce_Analytics/
+│
 ├── 01_Dados/
 │   ├── 01_Originais/
 │   ├── 02_Tratados/
 │   └── 03_Quarentena/
+│
 ├── 02_PowerBI/
 │   └── NexoCommerce_Analytics.pbix
+│
 ├── 03_Scripts/
 │   ├── 01_etl_tratamento.py
 │   ├── 02_validar_dados.py
 │   ├── mapeamentos_sinteticos.json
-│   ├── README.md
-│   └── requirements.txt
+│   ├── requirements.txt
+│   └── README.md
+│
 ├── 04_Documentacao/
 │   └── relatorio_validacao.csv
+│
 ├── 05_Portfolio/
 │   ├── 01_VISÃO EXECUTIVA.png
 │   ├── 02_ANÁLISE COMERCIAL.png
 │   └── 03_OPERAÇÕES E PRODUTOS.png
+│
 └── README.md
 ```
 
 ---
 
-## ▶️ Como explorar o projeto
+## Como explorar o projeto
 
 1. Consulte `01_Dados/` para conhecer a organização dos arquivos.
 2. Leia `03_Scripts/README.md` antes de executar os scripts.
-3. Consulte `04_Documentacao/relatorio_validacao.csv` para ver o relatório de validação.
-4. Abra `02_PowerBI/NexoCommerce_Analytics.pbix` no Power BI Desktop para explorar o dashboard.
+3. Verifique os arquivos de dependências em `03_Scripts/requirements.txt`.
+4. Consulte `04_Documentacao/relatorio_validacao.csv`.
+5. Abra `02_PowerBI/NexoCommerce_Analytics.pbix` no Power BI Desktop.
+6. Explore as três páginas do dashboard e interaja com os filtros.
 
-> **Observação:** confira as instruções e os caminhos configurados nos scripts antes de executá-los em outro ambiente.
+> **Observação:** caminhos e configurações dos scripts podem exigir ajustes conforme o ambiente local.
 
 ---
 
-## ⚠️ Limitações e premissas
+## Limitações e premissas
 
-- Os dados são sintéticos e têm finalidade educacional.
+- Os dados são sintéticos e possuem finalidade educacional e de portfólio.
 - Os resultados não representam o desempenho de uma empresa real.
 - As análises são descritivas e não comprovam relações de causa e efeito.
-- A execução dos scripts pode exigir ajustes nos caminhos dos arquivos conforme o ambiente local.
+- Os indicadores dependem das regras de negócio e dos filtros aplicados.
+- A execução dos scripts pode exigir ajustes nos caminhos locais.
 
 ---
 
-## 🎓 Objetivo profissional
+## Conclusão
 
-O NexoCommerce Analytics demonstra uma abordagem estruturada de **Análise de Dados e Business Intelligence**: organizar dados, tratar e validar informações, construir indicadores e comunicar resultados em um dashboard orientado ao negócio.
+O NexoCommerce Analytics demonstra um fluxo de trabalho de Análise de Dados e Business Intelligence que integra preparação e validação de dados, tratamento com Python, modelagem, indicadores DAX e visualização no Power BI.
+
+O projeto evidencia a importância de estruturar dados, validar informações e interpretar indicadores considerando o contexto do negócio.
+
+O foco não está apenas na construção de dashboards, mas na capacidade de **transformar dados em informações úteis para análise e tomada de decisão**.
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Renato Leone**  
-Área: Data Analytics / Business Intelligence  
-Projeto: NexoCommerce Analytics  
-Tipo: Projeto de portfólio End-to-End
+Analista de Dados | Business Intelligence
+
+- **GitHub:** [github.com/rrleone](https://github.com/rrleone)
+- **Portfólio:** [Renato Leone — Data Analytics & BI](https://sites.google.com/view/renatoleone/)
+- **Repositório:** [NexoCommerce Analytics](https://github.com/rrleone/NexoCommerce_Analytics)
+
+## Referências
+
+**Tecnologias e documentação**
+
+- [Python](https://docs.python.org/3/)
+- [Pandas](https://pandas.pydata.org/docs/)
+- [Microsoft Power BI](https://learn.microsoft.com/power-bi/)
+- [DAX — Microsoft Learn](https://learn.microsoft.com/dax/)
+
+---
+
+<div align="center">
+
+**NEXOCOMMERCE ANALYTICS**
+
+*Dados · Qualidade · Análise · Insights · Decisões*
+
+**RENATO LEONE | DATA ANALYTICS & BUSINESS INTELLIGENCE**
+
+</div>
