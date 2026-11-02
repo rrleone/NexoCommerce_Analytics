@@ -1,6 +1,7 @@
-# NexoCommerce Analytics
-
 <div align="center">
+
+<h1> NexoCommerce Analytics</h1>
+
 
 ### End-to-End Data Analytics & Business Intelligence
 
