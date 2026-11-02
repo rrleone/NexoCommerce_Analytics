@@ -41,19 +41,19 @@ O dashboard está organizado em três perspectivas complementares, permitindo ex
 
 Acompanhamento dos principais indicadores de desempenho, incluindo faturamento, pedidos, itens vendidos e ticket médio, com análises comerciais e operacionais.
 
-![NexoCommerce — Visão Executiva](05_Portfolio/01_visao%20executiva.png)
+![NexoCommerce — Visão Executiva](05_Portfolio/01_visao_executiva.png)
 
 ### 02 — Análise Comercial
 
 Exploração do desempenho comercial por canal, categoria e produto, incluindo comparação de faturamento, volume e concentração de resultados.
 
-![NexoCommerce — Análise Comercial](05_Portfolio/02_an%C3%A1lise%20comercial.png)
+![NexoCommerce — Análise Comercial](05_Portfolio/02_analise_comercial.png)
 
 ### 03 — Operações e Produtos
 
 Análise dos status dos pedidos e entregas, além de comparações entre categorias e produtos por volume.
 
-![NexoCommerce — Operações e Produtos](05_Portfolio/03_operacoes%20e%20produtos.png)
+![NexoCommerce — Operações e Produtos](05_Portfolio/03_operacoes_e_produtos.png)
 
 ---
 
